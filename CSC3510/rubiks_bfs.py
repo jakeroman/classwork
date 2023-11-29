@@ -1,4 +1,4 @@
-# rubiks.py | Jake Roman & Joseph DeMarco | CSC3510 HW3
+# rubiks.py | Jake Roman & Riley Peters | CSC3510 HW3
 # Solve a 3x3 Rubik's cube using A* search.
 
 import argparse
